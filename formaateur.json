@@ -1,0 +1,26 @@
+[
+    {
+      "matricule": "4A",
+      "nom": "Mohamed assekour",
+      "date naissance": "31/08/2001",
+      "date embuche": "23/07/2020",
+      "salaire base": 1000,
+      "heur sup": 12
+    },
+    {
+      "matricule": "22",
+      "nom": "fsdsf",
+      "date naissance": "jsf",
+      "date embuche": "fs",
+      "salaire base": 1,
+      "heur sup": 11
+    },
+    {
+      "matricule": "&&",
+      "nom": "&&",
+      "date naissance": "&&",
+      "date embuche": "&&",
+      "salaire base": 1,
+      "heur sup": 1
+    }
+  ]
